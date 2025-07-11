@@ -1,0 +1,105 @@
+{
+  "Tomato___Bacterial_spot": {
+    "English": {
+      "tips": [
+        "Remove infected leaves from the plant.",
+        "Spray copper-based fungicide to control the disease.",
+        "Avoid overhead watering to keep leaves dry."
+      ],
+      "image_url": "https://example.com/tomato_bacterial_spot.jpg",
+      "video_url": "https://www.youtube.com/watch?v=abc123"
+    },
+    "Hindi": {
+      "tips": [
+        "संक्रमित पत्तियों को हटा दें।",
+        "तांबा आधारित फफूंदनाशी का छिड़काव करें।",
+        "पत्तियों को सूखा रखने के लिए ऊपर से पानी देने से बचें।"
+      ]
+    },
+    "Telugu": {
+      "tips": [
+        "బాధిత ఆకులను తీసివేయండి.",
+        "కాపర్ ఆధారిత ఫంగీసైడ్‌ను స్ప్రే చేయండి.",
+        "ఆకులు తడవకుండా ఉండేందుకు పై నుంచి నీరు పోయకండి."
+      ]
+    }
+  },
+
+  "Potato___Early_blight": {
+    "English": {
+      "tips": [
+        "Use a recommended fungicide for early blight.",
+        "Avoid watering leaves from the top.",
+        "Rotate crops regularly to prevent soil infection."
+      ],
+      "image_url": "https://example.com/potato_early_blight.jpg",
+      "video_url": "https://www.youtube.com/watch?v=def456"
+    },
+    "Hindi": {
+      "tips": [
+        "प्रारंभिक झुलसा के लिए फफूंदनाशी का उपयोग करें।",
+        "ऊपर से पानी देने से बचें।",
+        "मिट्टी को संक्रमण से बचाने के लिए फसल चक्र अपनाएं।"
+      ]
+    },
+    "Telugu": {
+      "tips": [
+        "అధికంగా సూచించిన ఫంగీసైడ్‌ను ఉపయోగించండి.",
+        "ఆకులపై నీరు పడకుండా జాగ్రత్తగా ఉండండి.",
+        "మట్టిలో వ్యాధి వ్యాప్తిని నివారించడానికి పంటల మార్పిడి చేయండి."
+      ]
+    }
+  },
+
+  "Grape___Esca_(Black_Measles)": {
+    "English": {
+      "tips": [
+        "Remove infected leaves immediately.",
+        "Prune and destroy affected vines.",
+        "Avoid mechanical injury to the plant."
+      ],
+      "image_url": "https://example.com/grape_esca.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ghi789"
+    },
+    "Hindi": {
+      "tips": [
+        "संक्रमित पत्तियों को तुरंत हटा दें।",
+        "बेलों को काटें और नष्ट करें।",
+        "वनस्पति को यांत्रिक चोट से बचाएं।"
+      ]
+    },
+    "Telugu": {
+      "tips": [
+        "బాధిత ఆకులను వెంటనే తొలగించండి.",
+        "తీగలను కత్తిరించి ధ్వంసం చేయండి.",
+        "ఆకు లేదా మొక్కలకు గాయాలు కలగకుండా చూడండి."
+      ]
+    }
+  },
+
+  "Tomato___healthy": {
+    "English": {
+      "tips": [
+        "The plant is healthy. Keep monitoring regularly.",
+        "Water at the base, not on the leaves.",
+        "Add compost once a month for better growth."
+      ],
+      "image_url": "https://example.com/tomato_healthy.jpg",
+      "video_url": "https://www.youtube.com/watch?v=xyz123"
+    },
+    "Hindi": {
+      "tips": [
+        "पौधा स्वस्थ है। नियमित निगरानी रखें।",
+        "पत्तियों पर नहीं, जड़ों के पास पानी दें।",
+        "बेहतर विकास के लिए हर महीने खाद डालें।"
+      ]
+    },
+    "Telugu": {
+      "tips": [
+        "ఈ మొక్క ఆరోగ్యంగా ఉంది. తరచూ తనిఖీ చేయండి.",
+        "ఆకులపై కాకుండా వేరుశాఖ వద్ద నీరు పోయండి.",
+        "మంచి వృద్ధికి నెలకి ఒకసారి కంపోస్ట్ వేసి చూడండి."
+      ]
+    }
+  }
+}
