@@ -9,7 +9,8 @@ import gtts
 import tempfile
 
 # Load trained model
-model = tf.keras.models.load_model("improved_plant_disease_model.h5")
+model = tf.keras.models.load_model("improved_plant_disease_model.h5", compile=False)
+
 
 # Get class labels
 class_labels = sorted(os.listdir("dataset/train"))
@@ -24,7 +25,7 @@ languages = {
     "Telugu": "te",
     "Hindi": "hi",
     "Tamil": "ta",
-    "Marathi": "mr"
+    "Marathi": "mr" 
 }
 
 # UI
